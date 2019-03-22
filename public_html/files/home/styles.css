@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:930px;
+  width:880px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -54,6 +54,7 @@
   font-family:'Arial Fett', 'Arial Standard', 'Arial';
   font-weight:700;
   font-style:normal;
+  text-align:center;
 }
 #u1 {
   border-width:0px;
@@ -65,6 +66,7 @@
   font-family:'Arial Fett', 'Arial Standard', 'Arial';
   font-weight:700;
   font-style:normal;
+  text-align:center;
 }
 #u1_text {
   border-width:0px;
@@ -135,8 +137,8 @@
 #u4 {
   border-width:0px;
   position:absolute;
-  left:880px;
-  top:85px;
+  left:756px;
+  top:101px;
   width:50px;
   height:42px;
 }
