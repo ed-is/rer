@@ -7,6 +7,8 @@
   text-align:center;
   line-height:normal;
 }
+.box_1 {
+}
 .ellipse {
 }
 .image {
@@ -57,4 +59,10 @@
 }
 .paragraph {
   text-align:left;
+}
+.list_box {
+  color:#000000;
+  text-align:left;
+}
+.icon {
 }
